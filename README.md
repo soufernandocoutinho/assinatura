@@ -6,7 +6,7 @@ Página pública de apresentação e contratação dos planos de soluções digi
 
 O Guia Panorama é um guia online voltado a aproximar empresas e clientes. Nesta página, os visitantes podem:
 
-- comparar landing pages, sites institucionais e agendas digitais;
+- Assinar planos de landing pages, sites institucionais e agendas digitais;
 - conhecer opções de cardápio digital e pedidos online;
 - avaliar planos de e-commerce;
 - alternar entre cobrança mensal e anual;
